@@ -32,7 +32,17 @@
 - 📫 How to reach me: razu.cse129@gmail.com
 - ⚡ Fun fact: Travel, Cricket
 
-## Connect with me:
+---
+
+![razu's Stats](https://github-readme-stats.vercel.app/api?username=Md-Razu-Haolader&show_icons=true&hide_border=true&count_private=true)
+
+![razu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Razu-Haolader&hide_border=true)
+
+![razu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Razu-Haolader&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+## Where to find me:
 
 <div align="left">
 <a href="https://github.com/Md-Razu-Haolader" target="_blank">
@@ -49,11 +59,3 @@
 
 </a>
 </div>
-
-### Numbers
-
-![razu's Stats](https://github-readme-stats.vercel.app/api?username=Md-Razu-Haolader&show_icons=true&hide_border=true&count_private=true)
-
-![razu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Razu-Haolader&hide_border=true)
-
-![razu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Razu-Haolader&show_icons=true&hide_border=true&layout=compact)
