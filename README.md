@@ -44,12 +44,16 @@
 <a href="https://bd.linkedin.com/in/md-razu-haolader" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://medium.com/@razu.dev" target="_blank">
+<img src=https://img.shields.io/badge/medium-ffc117?style=for-the-badge&logo=medium&logoColor=black alt=medium style="margin-bottom: 5px;" />
+
+</a>
 </div>
 
 ### Numbers
 
-![razu's Stats](https://github-readme-stats.vercel.app/api?username=Md-Razu-Haolader&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![razu's Stats](https://github-readme-stats.vercel.app/api?username=Md-Razu-Haolader&show_icons=true&hide_border=true&count_private=true)
 
-![razu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Razu-Haolader&theme=darcula&hide_border=true)
+![razu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Razu-Haolader&hide_border=true)
 
-![razu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Razu-Haolader&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![razu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Razu-Haolader&show_icons=true&hide_border=true&layout=compact)
