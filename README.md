@@ -26,7 +26,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Simply Eloped](https://simplyeloped.com/)
+- 🔭 I’m currently working on [Gym City](https://gymcity.com/)
 - 🌱 I’m currently learning everytihg 🤣
 - 💬 Ask me about PHP, JavaScript, TypeScript, NodeJs, Laravel, WordPress, Database, React and VueJs
 - 📫 How to reach me: razu.cse129@gmail.com
