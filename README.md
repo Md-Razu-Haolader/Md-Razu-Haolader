@@ -26,7 +26,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Grameenphone Academy]([https://gymcity.com/](https://www.grameenphone.academy/))
+- 🔭 I’m currently working on [Grameenphone Academy](https://www.grameenphone.academy)
 - 🌱 I’m currently learning everytihg 🤣
 - 💬 Ask me about PHP, JavaScript, TypeScript, NodeJs, Laravel, WordPress, Database, React and VueJs
 - 📫 How to reach me: razu.cse129@gmail.com
